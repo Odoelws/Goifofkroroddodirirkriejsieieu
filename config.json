@@ -1,6 +1,5 @@
 {
-    "botToken": "token",
-    "welcomeChannelId": "channel_id",
-    "autoRoleId": "auto_role_when_user_join"
+    "botToken": "MTE5NTY3OTgxNjI1OTczOTY1OQ.G1GCSy.7kjSNqesYUTE8z9lxKZhIUWnh9qjFi5ph7Bwrw",
+    "welcomeChannelId": "1195158809514094632",
+    "autoRoleId": "1195158603892543490"
   }
-  
